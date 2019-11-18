@@ -16,6 +16,13 @@
 
 
 
+ console.log(getCount('longstring'))
+ console.log(getCount('longstring'))
+ console.log(getCount('longstring'))
+ console.log(getCount('longstring'))
+
+
+
 
 
 
